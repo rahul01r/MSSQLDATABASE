@@ -19,3 +19,8 @@ INSERT INTO employee_payroll VALUES('Priyanshu','15000','20-mar-2018');
 INSERT INTO employee_payroll VALUES('Sachin','10000','15-FEB-2010');
 INSERT INTO employee_payroll VALUES('himanshu','50000','13-apr-2025');
 INSERT INTO employee_payroll VALUES('rahul','30000','13-apr-2022');
+
+
+---------UC4-------------
+------------Retrieving all the Tables value--------------
+SELECT * FROM EMPLOYEE_PAYROLL;
